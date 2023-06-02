@@ -1,7 +1,10 @@
 # House Sales Price Predictions in King County
+![image](https://github.com/AnniAgra786/Kings-count-price-prediction-model-notebook/assets/109506450/5ee23278-5915-4f5b-a718-d1dbe5a5b2e7)
+
 This project is a Machine Learning group project aimed at building a model that predicts the price of listed houses in King County based on customer requirements. The goal is to provide accurate price estimations to assist customers and stakeholders in making informed decisions.
 
-## Objective
+## Objective 
+
 The objective of this project is to develop a predictive model that accurately estimates the price of houses based on various features and customer requirements. By leveraging machine learning algorithms and data analysis techniques, we aim to provide valuable insights to the real estate market.
 
 ## Tools and Libraries Used
