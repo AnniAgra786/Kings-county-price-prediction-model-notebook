@@ -17,7 +17,7 @@ Matplotlib was used for creating meaningful visualizations to gain insights from
 ### Scikit-learn (Sklearn): 
 Sklearn library was utilized for testing various regression algorithms to identify the best-performing model.
 ### Random Forest: 
-Among the tested regression algorithms, Random Forest exhibited the highest accuracy of 83% and was selected for the final model.
+Among the tested regression algorithms, Random Forest exhibited the highest accuracy of 86% and was selected for the final model.
 ### Streamlit: 
 Streamlit library was employed to create a user-friendly web application for easy access and utilization of the predictive model.
 ### Tableau: 
@@ -38,6 +38,15 @@ Using Scikit-learn, we tested various regression algorithms and evaluated their 
 Web Application: We created a user-friendly web application using Streamlit, allowing users to input their requirements and obtain estimated house prices based on the model.
 ### Deployment and Visualization: 
 The predictive model and visualizations were deployed and made accessible for stakeholders to utilize and make informed decisions in the real estate market.
+## ML Algorithms with their R2 Score
+![image](https://github.com/AnniAgra786/Kings-count-price-prediction-model-notebook/assets/109506450/432b8717-fb8a-4f73-bf06-0b4e3b9b454c)
+
+## Apllication Interface
+![image](https://github.com/AnniAgra786/Kings-count-price-prediction-model-notebook/assets/109506450/2b1fa91f-b8c0-430e-a795-00a4a3f469fc)
+
+ ## Dashboard Snap
+![Dashboard 1](https://github.com/AnniAgra786/Kings-count-price-prediction-model-notebook/assets/109506450/f010d08a-eb2b-49a4-adf2-f6bc62610c63)
+
 
 
 ## GitHub Repository Structure
