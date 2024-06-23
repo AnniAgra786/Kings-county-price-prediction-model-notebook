@@ -62,3 +62,5 @@ Feel free to explore the repository for more detailed information and code imple
 
 ## Conclusion
 The House Sales Price Predictions in King County project aimed to develop a robust predictive model to estimate house prices accurately. The utilization of Python, Pandas, Sklearn, Streamlit, and Tableau facilitated effective data analysis, model development, and visualization. This project provides valuable insights to customers, stakeholders, and the real estate market, aiding in decision-making processes.
+# Dashboard Link
+https://public.tableau.com/app/profile/ananya.rakesh/viz/KCHouseDashboard/Dashboard1#1
